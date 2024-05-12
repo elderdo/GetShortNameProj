@@ -1,0 +1,29 @@
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmGetShortname.resources
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\zf297a\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\bin\Debug\GetShortNameProj.exe
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\bin\Debug\GetShortNameProj.pdb
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\WindowsFormsApplication1.frmGetShortname.resources
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.exe
+C:\Users\zf297a\documents\visual studio 2010\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.exe
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\bin\Debug\GetShortNameProj.exe
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\bin\Debug\GetShortNameProj.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\WindowsFormsApplication1.frmGetShortname.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.csproj.GenerateResource.Cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\bin\Debug\GetShortNameProj.exe.config
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.csproj.AssemblyReference.cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\GetShortNameProj\GetShortNameProj\obj\x86\Debug\GetShortNameProj.csproj.CoreCompileInputs.cache
