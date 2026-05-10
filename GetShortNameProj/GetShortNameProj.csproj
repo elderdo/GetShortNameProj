@@ -67,16 +67,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormGetShortName.cs">
+    <Compile Include="GetShortNameForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormGetShortName.Designer.cs">
-      <DependentUpon>FormGetShortName.cs</DependentUpon>
+    <Compile Include="GetShortNameForm.Designer.cs">
+      <DependentUpon>GetShortNameForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormGetShortName.resx">
-      <DependentUpon>FormGetShortName.cs</DependentUpon>
+    <EmbeddedResource Include="GetShortNameForm.resx">
+      <DependentUpon>GetShortNameForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
