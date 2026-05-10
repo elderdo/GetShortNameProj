@@ -1,16 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
+using System.IO;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
-using System.Xml.Linq;
-using System.Diagnostics;
-using System.IO;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WindowsFormsApplication1
 {
@@ -72,7 +64,7 @@ namespace WindowsFormsApplication1
             string[] args = Environment.GetCommandLineArgs();
             if (args.Length > 1)
             {
-                for(int i = 1;i < args.Length; i++)
+                for (int i = 1; i < args.Length; i++)
                 {
                     if (File.Exists(args[i]))
                     {

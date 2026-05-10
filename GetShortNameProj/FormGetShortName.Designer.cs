@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmGetShortname));
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxLongName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -131,7 +132,7 @@
             this.buttonSaveToCopyBuf.Location = new System.Drawing.Point(919, 134);
             this.buttonSaveToCopyBuf.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.buttonSaveToCopyBuf.Name = "buttonSaveToCopyBuf";
-            this.buttonSaveToCopyBuf.Size = new System.Drawing.Size(159, 60);
+            this.buttonSaveToCopyBuf.Size = new System.Drawing.Size(159, 77);
             this.buttonSaveToCopyBuf.TabIndex = 8;
             this.buttonSaveToCopyBuf.Text = "Save to Clipboard";
             this.buttonSaveToCopyBuf.UseVisualStyleBackColor = true;
@@ -151,6 +152,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBoxLongName);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "frmGetShortname";
             this.Text = "Get Short Name";
